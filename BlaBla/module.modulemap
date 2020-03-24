@@ -1,0 +1,5 @@
+module MixModuleFramework {
+  header "TestClass.h"
+  export *
+}
+

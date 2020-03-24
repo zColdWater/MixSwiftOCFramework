@@ -15,5 +15,3 @@ FOUNDATION_EXPORT double BlaBlaVersionNumber;
 FOUNDATION_EXPORT const unsigned char BlaBlaVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <BlaBla/PublicHeader.h>
-
-
